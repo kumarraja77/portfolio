@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kumar Raja Vendra - Portfolio</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1,
+        h2,
+        h3 {
+            color: #333;
+        }
+
+        h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+        }
+
+        .project {
+            margin-bottom: 20px;
+        }
+
+        .contact {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Kumar Raja Vendra</h1>
+        <p>Computer Science Graduate</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>Enthusiastic computer science graduate with a passion for software development and data science. Proven
+            academic excellence and hands-on experience in various projects. Aiming to contribute to innovative
+            solutions and constantly seeking opportunities to learn and grow.</p>
+    </section>
+
+    <section>
+        <h2>Technical Skills</h2>
+        <ul>
+            <li>Programming Languages: C, C++, Python, Java</li>
+            <li>Web Technologies: HTML, CSS, JavaScript</li>
+            <li>Database: MySQL</li>
+            <li>Operating Systems: Windows, Ubuntu</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Academic Projects</h2>
+        <div class="project">
+            <h3>Mini Project 1: Vitamin D Deficiency Prediction using Machine Learning</h3>
+            <p>Implemented a machine learning model to predict Vitamin D deficiency.</p>
+        </div>
+        <div class="project">
+            <h3>Intern Project: Student Marks Prediction using Machine Learning</h3>
+            <p>Developed a machine learning solution for predicting student marks based on various factors.</p>
+        </div>
+    </section>
+
+    <section>
+        <h2>Internship/Work Experience</h2>
+        <p>Data Science with Python, The Sparks Foundation</p>
+    </section>
+
+    <section>
+        <h2>Certificates</h2>
+        <ul>
+            <li>JPMorgan Chase&Co. Software Engineering Virtual Experience</li>
+            <li>Completed "Advanced Google Analytics" course</li>
+            <li>Completed "Google Analytics for Beginners" course</li>
+            <li>Participated in "Google Digital Workshop" – The Fundamentals of Digital Marketing</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Extra-Curricular Activities</h2>
+        <ul>
+            <li>AARUUSH (Technical Fest), Aug 2019 - Sep 2019, Role: Committee Head | Cause: Arts and Culture</li>
+            <li>MILAN (National Fest), 19 Mar 2019 - Mar 2020, Role: Committee Head | Cause: Arts and Culture</li>
+            <li>Volunteered in many events conducted in college.</li>
+        </ul>
+    </section>
+
+    <section class="contact">
+        <h2>Contact Information</h2>
+        <ul>
+            <li>Email: <a href="mailto:vendrakumarraja@gmail.com">vendrakumarraja@gmail.com</a></li>
+            <li>Mobile: +91 9390679744</li>
+        </ul>
+    </section>
+
+</body>
+
+</html>
